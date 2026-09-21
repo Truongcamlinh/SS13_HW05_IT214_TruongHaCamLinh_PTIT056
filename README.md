@@ -1,10 +1,5 @@
 # SS13 HW05 - WebFlux, Circuit Breaker và Micrometer
 
-**Sinh viên:** Trương Hà Cẩm Linh
-
-**Lớp:** IT214
-
-**Mã sinh viên:** PTIT056
 
 ## Cấu trúc
 
